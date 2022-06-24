@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm jack of all master of none
 -->
++ <h1 align="center">Hi there 👋, I'm Manish Chaudhary</h1>
