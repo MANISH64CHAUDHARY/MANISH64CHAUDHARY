@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 + - 👨‍💻 All of my projects are available at [https://github.com/MANISH64CHAUDHARY](https://github.com/MANISH64CHAUDHARY)
 +
 + - ⚡ Fun fact **I'm jack of all master of none.**
++
++ <h3 align="left">Connect with me:</h3>
