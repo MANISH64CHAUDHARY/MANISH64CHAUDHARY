@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 + - ⚡ Fun fact **I'm jack of all master of none.**
 +
 + <h3 align="left">Connect with me:</h3>
++ <p align="left">
