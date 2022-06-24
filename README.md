@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I'm jack of all master of none
 -->
 + <h1 align="center">Hi there 👋, I'm Manish Chaudhary</h1>
++
++ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishC57037333&label=Profile%20views&color=0e75b6&style=flat" alt="ManishC57037333" /> </p>
