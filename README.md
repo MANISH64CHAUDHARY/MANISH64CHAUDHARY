@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 + <h1 align="center">Hi there 👋, I'm Manish Chaudhary</h1>
 +
-+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishC57037333&label=Profile%20views&color=0e75b6&style=flat" alt="ManishC57037333" /> </p>
++ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MANISH64CHAUDHARY&label=Profile%20views&color=0e75b6&style=flat" alt="MANISH64CHAUDHARY" /> </p>
