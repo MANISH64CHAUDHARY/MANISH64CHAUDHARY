@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 + 
 + - 👨‍💻 All of my projects are available at [https://github.com/MANISH64CHAUDHARY](https://github.com/MANISH64CHAUDHARY)
 +
++ - 📝 I regularly write articles on [https://1337mickey.medium.com/](https://1337mickey.medium.com/)
++ 
 + - ⚡ Fun fact **I'm jack of all master of none.**
 +
 + <h3 align="left">Connect with me:</h3>
