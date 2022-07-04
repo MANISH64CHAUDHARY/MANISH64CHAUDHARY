@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 +
 + - 📫 How to reach me **manish@manishchaudhary.com.np**
 +
-+ - 📄 Know about my experiences [https://sushilphuyal.com.np/mickey.pdf](https://sushilphuyal.com.np/mickey.pdf)
++ - 📄 Know about my experiences [https://manishchaudhary.com.np/manish.pdf](https://manishchaudhary.com.np/manish.pdf)
 + 
 + - ⚡ Fun fact **I'm jack of all master of none.**
 +
