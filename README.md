@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 +
 + - 💬 Ask me about **HTML5, CSS3 and C Programming**
 +
-+ - 📫 How to reach me **infosec@sushilphuyal.com.np**
++ - 📫 How to reach me **manish@manishchaudhary.com.np**
 + 
 + - ⚡ Fun fact **I'm jack of all master of none.**
 +
