@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 + - 💬 Ask me about **HTML5, CSS3 and C Programming**
 +
 + - 📫 How to reach me **manish@manishchaudhary.com.np**
++
++ - 📄 Know about my experiences [https://sushilphuyal.com.np/mickey.pdf](https://sushilphuyal.com.np/mickey.pdf)
 + 
 + - ⚡ Fun fact **I'm jack of all master of none.**
 +
