@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 + 
 + - 👨‍💻 All of my projects are available at [https://github.com/MANISH64CHAUDHARY](https://github.com/MANISH64CHAUDHARY)
 +
-+ - 📝 I regularly write articles on [https://manishchaudhary.medium.com/](https://manishchaudhary.medium.com/)
++ - 📝 I regularly write articles on [https://medium.com/@chaudharimanish137/](https://medium.com/)
 +
 + - 💬 Ask me about **HTML5, CSS3 and C Programming**
 +
