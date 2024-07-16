@@ -59,3 +59,7 @@ Here are some ideas to get you started:
 + <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH64CHAUDHARY&show_icons=true&locale=en" alt="MANISH64CHAUDHARY" /></p>
 +
 + <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MANISH64CHAUDHARY&" alt="MANISH64CHAUDHARY" /></p>
++ <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
