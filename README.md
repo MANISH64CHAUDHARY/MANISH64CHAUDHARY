@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 +
 + <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=MANISH64CHAUDHARY&theme=radical"/>
 <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=MANISH64CHAUDHARY&theme=radical&no-frame=true&title=Stars,Followers,Commits&col2umn=-1"/>
-<p align="center">
++ <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/_MANISH64CHAUDHARY/count.svg" />
 </p>
++
